@@ -1,0 +1,26 @@
+{
+  "name": "hard-rock-dev-ops-theme",
+  "version": "0.0.1",
+  "description": "Theme for Hard Rock DevOps applications and sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steeff0/hard-rock-dev-ops-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steeff0/hard-rock-dev-ops-theme/issues"
+  },
+  "homepage": "https://github.com/Steeff0/hard-rock-dev-ops-theme#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.2",
+    "bootstrap": "^5.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

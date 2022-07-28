@@ -1,0 +1,20 @@
+/* FontAwesome Pro */
+@import "../node_modules/@fortawesome/fontawesome-free/scss/fontawesome";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/solid";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/regular";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/brands";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/stacked";
+
+/* First import Bootstrap functions, because we need them in our variables */
+@import "../node_modules/bootstrap/scss/functions";
+
+/* Second import Kadaster-bootstrap functions, because we need them in our variables & fonts */
+@import "functions";
+
+/* Import variables from Kadaster-bootstrap */
+@import "variables";
+
+/* Import variables from bootstrap */
+@import "../node_modules/bootstrap/scss/variables";
+
+@import "custom";
